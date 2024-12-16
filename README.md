@@ -11,4 +11,5 @@
 5. [linux-python-for-android](Documents/py程序封装可执行文件.md#linux-python-for-android)
 6. [anaconda](Documents/anaconda%20&%20pip.md#anaconda)
 7. [pip命令](Documents/anaconda%20&%20pip.md#pip命令)
+8. [vscode配置c环境](Documents/vscode配置环境.md#vscode-配置c语言环境)
 ----
