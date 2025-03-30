@@ -12,4 +12,6 @@
 6. [anaconda](Documents/anaconda%20&%20pip.md#anaconda)
 7. [pip命令](Documents/anaconda%20&%20pip.md#pip命令)
 8. [vscode配置c环境](Documents/vscode配置环境.md#vscode-配置c语言环境)
+8. [wsl安装linux](Documents/wsl安装linux.md#wsl安装linux)
+9. [wsa安装以及root(转载)](https://www.bilibili.com/opus/624794136714662162)
 ----
