@@ -38,6 +38,7 @@ git config --global --unset https.proxy
 ```
 git config --global http.proxy http://127.0.0.1:7890
 
+端口号和系统http代理端口号保持一致，默认7890，但是如果已经修改过了，就应该设置为系统已修改的gttp代理端口号
 ```
 
 设置完成后，可以通过以下命令检验是否设置成功：
