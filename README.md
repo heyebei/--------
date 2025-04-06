@@ -14,4 +14,5 @@
 8. [vscode配置c环境](Documents/vscode配置环境.md#vscode-配置c语言环境)
 8. [wsl安装linux](Documents/wsl安装linux.md#wsl安装linux)
 9. [wsa安装以及root(转载)](https://www.bilibili.com/opus/624794136714662162)
+10. [git报错](Documents/git报错.md)
 ----
