@@ -15,4 +15,6 @@
 8. [wsl安装linux](Documents/wsl安装linux.md#wsl安装linux)
 9. [wsa安装以及root(转载)](https://www.bilibili.com/opus/624794136714662162)
 10. [git报错](Documents/git报错.md)
+11. [USB/IP安装](Documents/USBIP安装.md)
+12. [局域网中USB远程共享](Documents/局域网中USB远程共享.md)
 ----
