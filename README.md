@@ -17,5 +17,5 @@
 10. [git报错](Documents/git报错.md)
 11. [git配置邮箱和用户名](Documents/git配置邮箱和用户名.md)
 12. [USB/IP安装](Documents/USBIP安装.md)
-13. [局域网中USB远程共享](Documents/局域网中USB远程共享.md)
+
 ----
