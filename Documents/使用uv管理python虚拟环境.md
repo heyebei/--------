@@ -323,7 +323,7 @@ export UV_DEFAULT_INDEX=https://pypi.tuna.tsinghua.edu.cn/simple
 
 ### [](https://blog.csdn.net/muxuen/article/details/147544307)5\. 大模型mcp协议和uv
 
-最近，ai agent中mcp协议的推出，让慕雪了解到了uv工具。对于mcp而言，mcp server的开发可以使用python来编写，此时python环境的管理就非常重要了。
+对于mcp而言，mcp server的开发可以使用python来编写，此时python环境的管理就非常重要了。
 
 以常见的mcp客户端配置举例，示例配置如下，其中test.py是我们编写的一个mcp服务器。
 
@@ -360,12 +360,5 @@ graph TD;
 
 而且，mcp强制使用uv，也进一步规范了使用python编写mcp server的格式，再也不用担心某些开源python项目的根目录下连requirements.txt都没有的尴尬情况了。
 
-> 本文首发地址：[【Python】使用uv管理python虚拟环境](https://blog.musnow.top/posts/4192678800/?f=csdn)，首发于 2025-04-14 21:29:43
-> 
-> 点我查看更多精彩内容：[慕雪的寒舍](https://blog.musnow.top/?f=csdn)
-
- 
-
-  
 
 本文转自 [https://blog.csdn.net/muxuen/article/details/147544307](https://blog.csdn.net/muxuen/article/details/147544307)，如有侵权，请联系删除。
